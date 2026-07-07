@@ -1,6 +1,6 @@
 # 👋 Hello Guys, Krishna Ghodake here!
 
-A passionate Full-Stack Developer | UI/UX Designer | Web Development | Creative
+Full-Stack Developer | UI/UX Designer | Web Development | Creative
 
 📧 **Email:** krishna.d.ghodake@gmail.com 
 💼 **LinkedIn:** https://www.linkedin.com/in/krishna-ghodake-550406318/
