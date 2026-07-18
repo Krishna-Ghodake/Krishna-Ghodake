@@ -1,111 +1,351 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:EC4899&height=220&section=header&text=Krishna%20Ghodake&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20AI%20Integrator&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:050816,15:0B1026,35:1E1B4B,65:312E81,100:7C3AED&text=KRISHNA%20GHODAKE&font=Orbitron&fontSize=78&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20UI%2FUX%20Designer%20•%20Freelance%20Web%20Engineer&descAlignY=62&descSize=22&descColor=CBD5E1"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&width=650&lines=Building+AI-powered+web+apps+%F0%9F%9A%80;Designing+pixel-perfect+UI%2FUX+in+Figma+%F0%9F%8E%A8;Turning+ideas+into+real+products+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=950&lines=%3E+npm+run+build;Building+Modern+Digital+Experiences;Full+Stack+Developer;UI%2FUX+Designer;Freelance+Web+Engineer;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Figma;Code.+Create.+Innovate." />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Krishna-Ghodake&color=9333ea&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Krishna-Ghodake?style=for-the-badge&color=ec4899&labelColor=1a1a1a)
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Krishna-Ghodake&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+
+<img src="https://img.shields.io/github/followers/Krishna-Ghodake?style=for-the-badge&color=8B5CF6&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/github/stars/Krishna-Ghodake?affiliations=OWNER&style=for-the-badge&color=A855F7&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-### 📧 Reach me
-[![Gmail](https://img.shields.io/badge/-krishna.d.ghodake@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishna.d.ghodake@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Krishna%20Ghodake-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-ghodake-550406318/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](#)
-
-<br/>
-
-## 🧭 About Me
-
-```yaml
-Currently Working on : "AI-powered web apps, UI/UX design, full stack projects, developer portfolio"
-Currently Learning:   "Advanced Backend Dev, System Design, Cloud Tech, AI Integration"
-Looking to Collab on: "Open-source projects, innovative web apps, AI-driven solutions, freelance clients"
-Ask me About:         "Full-Stack Dev · UI/UX · Figma · AI Integration · Web Dev"
-Fun Fact:             "I turn ideas into real products — Figma mockup to deployed app, end to end."
-```
-
-<br/>
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-**Languages & Core**
-<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,java,css,html,python" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6D28D9,100:9333EA&height=85&section=header&text=CONNECT%20WITH%20ME&font=Orbitron&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-**Backend, Cloud & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django,firebase,aws,azure,mysql,sqlite,mongodb,postgres" />
+<br><br>
 
-**Frontend & Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,vercel,netlify,render" />
+<a href="mailto:krishna.d.ghodake@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/krishna-ghodake-550406318/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Design & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=figma,sketch,ai,git,github,vscode" />
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://x.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
-**Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=py" /> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Let's+build+something+amazing+together.;Open+for+Freelance+Projects.;Available+for+Collaborations.;Always+learning.+Always+building."/>
 
 </div>
 
-<br/>
-
-## 📈 GitHub Stats
+---
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishna-Ghodake&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&icon_color=9333ea&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-Ghodake&theme=radical&hide_border=true&background=0d1117&ring=9333ea&fire=ec4899"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0D1117,50:6D28D9,100:9333EA&text=ABOUT%20ME&font=Orbitron&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=850&lines=Turning+Ideas+Into+Digital+Experiences.;Building+Modern+Web+Applications.;Code.+Design.+Create.+Repeat."/>
+
 </div>
 
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### Developer❗️
+
+- 💼 **Freelance Web Engineer**
+- 💻 **Full Stack Developer**
+- 🎨 **UI/UX Designer**
+- 🎓 **B.Sc. Computer Science**
+- 📍 **India 🇮🇳**
+
+</td>
+
+<td width="50%" valign="top">
+
+### Currently❗️
+
+- 🔭 Building Modern Web Apps
+- 🧑🏻‍💻 Building Interacting and Premium Websites
+- 🤖 Exploring AI Integration
+- 🎨 Designing Premium UI/UX
+- 🌐 Freelancing
+- 📚 Learning System Design
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Ghodake&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&langs_count=8" />
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
+
 </div>
 
-<br/>
-
-## 🔥 Contribution Activity
+<br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-Ghodake&theme=react-dark&hide_border=true&bg_color=0d1117&color=9333ea&line=ec4899&point=ffffff" width="100%"/>
+
 </div>
 
-### 🐍 The Contribution Snake
+---
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/Krishna-Ghodake/Krishna-Ghodake/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0D1117,50:6D28D9,100:9333EA&text=TECH%20ARSENAL&font=Orbitron&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications.;Crafting+Beautiful+Digital+Experiences.;Always+Learning+New+Technologies.;Code+.+Design+.+Deploy."/>
+
 </div>
 
-<br/>
-
-## 🏆 Trophies
+<br>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Krishna-Ghodake&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" />
+
+# 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java,python" />
+
+<br><br>
+
+# ⚛️ Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,bootstrap,sass,redux" />
+
+<br><br>
+
+# ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,django,flask,fastapi" />
+
+<br><br>
+
+# 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase" />
+
+<br><br>
+
+# ☁️ Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render,aws,azure" />
+
+<br><br>
+
+# 🎨 UI / UX & Creative
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" />
+
+<br><br>
+
+# 🛠️ Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,bash,linux" />
+
+<br><br>
+
+# 🤖 AI & Productivity
+
+<img src="https://skillicons.dev/icons?i=github" />
+
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Figma%20AI-A259FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Antigravity-A855F7?style=for-the-badge"/>
+
 </div>
 
-<br/>
-
-## ✍️ Random Dev Quote
+<br>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+## 🚀 Tech Highlights
+
+| Category | Technologies |
+|-----------|--------------|
+| 💻 Languages | HTML5 • CSS3 • JavaScript • TypeScript • Java • Python • C • C++ |
+| 🎨 Frontend | React • Next.js • Vite • Tailwind CSS • Bootstrap • Sass • Redux |
+| ⚙️ Backend | Node.js • Express.js • Django • Flask • FastAPI • Firebase |
+| 🗄️ Database | MongoDB • PostgreSQL • MySQL • SQLite • Supabase |
+| ☁️ Deployment | Vercel • Netlify • Render • AWS • Azure |
+| 🎨 Design | Figma • Adobe Photoshop • Adobe Illustrator • Adobe XD |
+| 🛠️ Tools | Git • GitHub • VS Code • Postman • npm • Linux • Bash |
+| 🤖 AI | ChatGPT • Claude • Google Stitch • Antigravity AI |
+
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:9333EA,100:6D28D9&height=120&section=footer&animation=fadeIn"/>
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technology%20Stack&align=center&titleAlign=center&fontSize=22&theme=github_dark&lineCount=3&line1=react,React,61DAFB;node.js,Node.js,339933;mongodb,MongoDB,47A248;figma,Figma,F24E1E;&line2=javascript,JavaScript,F7DF1E;tailwindcss,Tailwind,38BDF8;postgresql,PostgreSQL,4169E1;git,Git,F05032;&line3=python,Python,3776AB;java,Java,F89820;firebase,Firebase,FFCA28;vercel,Vercel,000000;" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0D1117,50:6D28D9,100:9333EA&text=GITHUB%20ANALYTICS&font=Orbitron&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=850&lines=Tracking+Every+Commit.;Building+Every+Day.;Consistency+Creates+Excellence."/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Krishna-Ghodake&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-Ghodake&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishna-Ghodake&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishna-Ghodake&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krishna-Ghodake&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krishna-Ghodake&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Krishna-Ghodake&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0D1117,50:6D28D9,100:9333EA&text=LET'S%20CONNECT&font=Orbitron&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Open+For+Freelance+Projects.;Let's+Build+Something+Amazing.;Always+Ready+To+Collaborate.;Turning+Ideas+Into+Reality."/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="mailto:krishna.d.ghodake@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krishna-ghodake-550406318/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## Thanks for having a look, Means a lot‼️
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Krishna-Ghodake&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0D1117,30:312E81,60:6D28D9,100:9333EA"/>
+
 </div>
