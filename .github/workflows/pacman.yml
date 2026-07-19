@@ -1,8 +1,8 @@
-name: Generate Pacman
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
 
   workflow_dispatch:
 
@@ -14,13 +14,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
       - uses: Platane/snk@v3
         with:
           github_user_name: Krishna-Ghodake
           outputs: |
-            dist/pacman-contribution-graph.svg?palette=github-light&animation=pacman
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&animation=pacman
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
