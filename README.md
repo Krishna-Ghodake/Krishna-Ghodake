@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:050816,15:0B1026,35:1E1B4B,65:312E81,100:7C3AED&text=KRISHNA%20GHODAKE&font=Orbitron&fontSize=78&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20UI%2FUX%20Designer%20•%20Freelance%20Web%20Engineer&descAlignY=62&descSize=22&descColor=CBD5E1"/>
@@ -15,6 +16,23 @@
 <img src="https://img.shields.io/github/stars/Krishna-Ghodake?affiliations=OWNER&style=for-the-badge&color=A855F7&labelColor=0D1117"/>
 
 </div>
+
+---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
