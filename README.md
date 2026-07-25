@@ -332,7 +332,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR_USERNAME">
+<a href="https://www.instagram.com/[https://www.instagram.com/krishna_ghodke_018/]">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
